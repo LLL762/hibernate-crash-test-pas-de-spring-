@@ -13,11 +13,11 @@
 		</property>
 
 		<property name="hibernate.connection.username">
-			user_books
+			root
 		</property>
 
 		<property name="hibernate.connection.password">
-			user
+			12345679
 		</property>
 
 		<property name="show_sql">true</property>
